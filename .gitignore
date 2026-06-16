@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Office temp files
+~$*.xlsm
+~$*.xlsx
+~$*.docx
+
+# Claude Code
+.claude/
